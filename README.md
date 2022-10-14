@@ -19,3 +19,9 @@
 * **Giảng viên**: ThS.Nguyễn Vinh Tiệp
 
  ## Ngôn Ngữ Lập Trình: Python
+ 
+ ## QUÁ TRÌNH
+### Week 1: Bài tập 1 - Các mô hình máy học cho bài toán Regression
+### Week 2: Bài tập 2 - Xử lý dữ liệu GIS
+### Week 3: Bài tập 3 - Trực quan hóa dữ liệu bản đồ
+### Week 4: Bài tập 4 - Gom cụm dữ liệu click của người dùng
