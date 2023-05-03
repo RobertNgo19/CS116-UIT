@@ -32,7 +32,7 @@
 
  ## Programing Language: Python
  ## Project: Face Expression Regconition
- - File Report: [Report](https://github.com/RobertNgo19/Python4ML-Subject/blob/main/project/Report.pdf
+ - File Report: [Report](https://github.com/RobertNgo19/Python4ML-Subject/blob/main/project/Report.pdf)
  - Code: [Code](https://github.com/RobertNgo19/Python4ML-Subject/blob/main/project/Resnet-50(open%20on%20ggcolab).ipynb)
 
 
