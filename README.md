@@ -15,7 +15,7 @@
 * **Subject Title:** Python for Machine Learning
 * **Subject Code:** CS116
 * **Class Code:** CS116.N11.KHCL- VN
-* **Lecturers:** ThS.Nguyễn Vinh Tiệp
+* **Lecturers** : ThS.Nguyễn Vinh Tiệp
 
  ## Progress
 ### Week 1: Bài tập 1 - Các mô hình máy học cho bài toán Regression
