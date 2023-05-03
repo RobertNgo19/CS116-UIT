@@ -11,16 +11,13 @@
  ------------- | ---------------------- |---------------------------|------------------------- 
  19521994      | Ngô Thành Phát         |https://github.com/RobertNgo19  |19521994@gm.uit.edu.vn   |
  
- ## GIỚI THIỆU MÔN HỌC
-* **Tên môn học:** Lập trình Python cho Máy học
-* **Mã môn học:** CS116
-* **Mã lớp:** CS116.N11.KHCL- VN
-* **Năm học:** HK1 (2022 - 2023)
-* **Giảng viên**: ThS.Nguyễn Vinh Tiệp
+ ## COURSE INTRODUCTION
+* **Subject Title:** Python for Machine Learning
+* **Subject Code:** CS116
+* **Class Code:**CS116.N11.KHCL- VN
+* **Lecturers**: ThS.Nguyễn Vinh Tiệp
 
- ## Ngôn Ngữ Lập Trình: Python
- 
- ## QUÁ TRÌNH
+ ## Progress
 ### Week 1: Bài tập 1 - Các mô hình máy học cho bài toán Regression
 ### Week 2: Bài tập 2 - Xử lý dữ liệu GIS
 ### Week 3: Bài tập 3 - Trực quan hóa dữ liệu bản đồ
@@ -32,3 +29,12 @@
 ### Week 9: Bài tập 9 - CNN và các biến thể
 ### Week 10: Bài tập 10 - XGBoost
 ### Week 11: Bài tập 11 - Chọn lựa mô hình với Grid Search
+
+ ## Programing Language: Python
+ ## Project: Face Expression Regconition
+ - File Report: [Report](https://github.com/RobertNgo19/Python4ML-Subject/blob/main/project/Report.pdf
+ - Code: [Code](https://github.com/RobertNgo19/Python4ML-Subject/blob/main/project/Resnet-50(open%20on%20ggcolab).ipynb)
+
+
+ 
+ 
