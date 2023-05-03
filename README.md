@@ -4,10 +4,10 @@
     <img src="https://i.imgur.com/WmMnSRt.png" alt="Trường Đại học Công nghệ Thông tin | University of Information Technology">
   </a>
 </p>
-<h1 align="center"><b>Lập Trình Python cho Máy học</b></h>
+<h1 align="center"><b>Python for Machine Learning</b></h>
 
-## SINH VIÊN
- MSSV          | Họ và Tên              | Github                    | Email                   |
+## Student
+ MSSV          | Full Name             | Github                    | Email                   |
  ------------- | ---------------------- |---------------------------|------------------------- 
  19521994      | Ngô Thành Phát         |https://github.com/RobertNgo19  |19521994@gm.uit.edu.vn   |
  
