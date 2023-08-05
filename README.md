@@ -9,7 +9,7 @@
 ## Student
  MSSV          | Full Name             | Github                    | Email                   |
  ------------- | ---------------------- |---------------------------|------------------------- 
- 19521994      | Ngô Thành Phát         |https://github.com/RobertNgo19  |19521994@gm.uit.edu.vn   |
+ 19521994      | Ngo Thanh Phat        |https://github.com/RobertNgo19  |19521994@gm.uit.edu.vn   |
  
  ## COURSE INTRODUCTION
 * **Subject Title:** Python for Machine Learning
@@ -18,17 +18,17 @@
 * **Lecturers** : ThS.Nguyễn Vinh Tiệp
 
  ## Progress
-### Week 1: Bài tập 1 - Các mô hình máy học cho bài toán Regression
-### Week 2: Bài tập 2 - Xử lý dữ liệu GIS
-### Week 3: Bài tập 3 - Trực quan hóa dữ liệu bản đồ
-### Week 4: Bài tập 4 - Gom cụm dữ liệu click của người dùng
-### Week 5: Bài tập 5 - Linear Regression + đánh giá mô hình + Streamlit
-### Week 6: Bài tập 6 - Phân lớp với Logistic Regression và đánh giá mô hình + Streamlit
-### Week 7: Bài tập 7 - Classification với PCA để giảm số chiều
-### Week 8: Bài tập 8 - Phân loại văn bản với Naive Bayes
-### Week 9: Bài tập 9 - CNN và các biến thể
-### Week 10: Bài tập 10 - XGBoost
-### Week 11: Bài tập 11 - Chọn lựa mô hình với Grid Search
+### Exercise 1 - Machine learning models for the Regression problem
+### Exercise 2 - GIS data processing
+### Exercise 3 - Map data visualization
+### Exercise 4 - Clustering user click data
+### Exercise 5 - Linear Regression + Evaluation + Streamlit
+### Exercise 6 - Classification with Logistic Regression and Evaluation + Streamlit
+### Exercise 7 - Classification with PCA to reduce  dimensions
+### Exercise 8 - Text classification with Naive Bayes
+### Exercise 9 - CNN and variations 
+### Exercise 10 - XGBoost
+### Exercise 11 - Model Selection Grid Search
 
  ## Programing Language: Python
  ## Project: Face Expression Regconition
