@@ -15,7 +15,7 @@
 * **Subject Title:** Python for Machine Learning
 * **Subject Code:** CS116
 *  Hello everyone, in this archive I introduce  Python in machine learning. This is one of the best practices for me to start my AI career.
-## > Note: All knowledge **belonging to UIT** is for study and research only
+> Note: All knowledge **belonging to UIT** is for study and research only
 
  ## Progress
 #### Exercise 1 - Machine learning models for the Regression problem
