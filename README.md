@@ -14,6 +14,8 @@
  ## COURSE INTRODUCTION
 * **Subject Title:** Python for Machine Learning
 * **Subject Code:** CS116
+*  Hello everyone, in this archive I introduce  Python in machine learning. This is one of the best practices for me to start my AI career.
+> Note: All knowledge belonging to **UIT** is for study and research only
 
  ## Progress
 #### Exercise 1 - Machine learning models for the Regression problem
@@ -29,7 +31,7 @@
 #### Exercise 11 - Model Selection Grid Search
 
  ## Programing Language: Python
- ## Project: Face Expression Regconition with Deep Learning
+ ## Project: Face Expression Recognition with Deep Learning
 
  - File Report: [Report](https://github.com/RobertNgo19/Python4ML-Subject/blob/main/project/Report.pdf)
  - Code: [Code](https://github.com/RobertNgo19/Python4ML-Subject/blob/main/project/Resnet-50(open%20on%20ggcolab).ipynb)
