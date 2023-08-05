@@ -9,7 +9,7 @@
 ## Student
  ID            | Full Name             | Github                    | Email                   |
  ------------- | ----------------------|---------------------------|------------------------- 
- 19521994      | Ngo Thanh Phat        |https://github.com/RobertNgo19  |19521994@gm.uit.edu.vn   |
+ 19521994      | Ngo Thanh Phat        |https://github.com/RobertNgo19  |thanhphat352@gmail.com  |
  
  ## COURSE INTRODUCTION
 * **Subject Title:** Python for Machine Learning
