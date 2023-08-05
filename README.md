@@ -33,8 +33,8 @@
  ## Programing Language: Python
  ## Project: Face Expression Recognition with Deep Learning
 
- #### - Report: [Report](https://github.com/RobertNgo19/Python4ML-Subject/blob/main/project/Report.pdf)
- #### - Source: [Code](https://github.com/RobertNgo19/Python4ML-Subject/blob/main/project/Resnet-50(open%20on%20ggcolab).ipynb)
+ #### Report: [Report](https://github.com/RobertNgo19/Python4ML-Subject/blob/main/project/Report.pdf)
+ #### Source: [Code](https://github.com/RobertNgo19/Python4ML-Subject/blob/main/project/Resnet-50(open%20on%20ggcolab).ipynb)
 
 
  
