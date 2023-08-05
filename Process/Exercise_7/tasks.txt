@@ -1,0 +1,7 @@
+Using Wine dataset, combined with streamlit:
+
+- Added option PCA, allowing to enter the number of dimensions after reduction.
+
+- Input feature X after dimensionality reduction will turn into X'. Use X' for training and prediction.
+
+Note: The dimensional reduction model is performed on the train set, then the parameters will be kept to be applied on the test set, not refitted on the test set.

@@ -7,15 +7,13 @@
 <h1 align="center"><b>Python for Machine Learning</b></h>
 
 ## Student
- MSSV          | Full Name             | Github                    | Email                   |
- ------------- | ---------------------- |---------------------------|------------------------- 
+ ID            | Full Name             | Github                    | Email                   |
+ ------------- | ----------------------|---------------------------|------------------------- 
  19521994      | Ngo Thanh Phat        |https://github.com/RobertNgo19  |19521994@gm.uit.edu.vn   |
  
  ## COURSE INTRODUCTION
 * **Subject Title:** Python for Machine Learning
 * **Subject Code:** CS116
-* **Class Code:** CS116.N11.KHCL- VN
-* **Lecturers** : ThS.Nguyễn Vinh Tiệp
 
  ## Progress
 ### Exercise 1 - Machine learning models for the Regression problem

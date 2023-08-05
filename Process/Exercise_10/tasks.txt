@@ -1,0 +1,7 @@
+Use an interface with Streamlit to compare classification methods with XGBoost.
+
+XGBoost is a highly efficient classification algorithm used in Kaggle competitions.
+
+For more details, refer to: https://xgboost.readthedocs.io/en/stable/
+
+Let's install XGBoost Classifier and compare with some methods like Logistic Regression, SVM, Decision Tree.

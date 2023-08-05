@@ -1,0 +1,16 @@
+Step 1: Cài đặt thư viện geopandas
+
+Step 2: git clone https://github.com/CityScope/CSL_HCMC
+Step 3: use geopandas read  shapefile trong /Data/GIS/Population/population_HCMC/population_shapefile/Population_Ward_Level.shp
+
+Step 4: Query tasks:
+- Which ward has the largest area ?
+- Which ward has the highest population in 2019 (Pop_2019)?
+- Which ward has the smallest area ?
+- Which ward has the lowest population (2019) ?
+- Which ward has the fastest population growth (based on Pop_2009 and Pop_2019) ?
+- Which ward has the lowest population growth rate ?
+- Which ward has the fastest population change ?
+-Which ward has the slowest population change ?
+- Which ward has the highest population density (2019) ?
+- Which ward has the lowest population density (2019) ?

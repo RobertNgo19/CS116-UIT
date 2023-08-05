@@ -1,0 +1,15 @@
+Linear regression exercise uses 2 methods of Train/Test split and K-fold cross validation to evaluate the model.
+
+Use Streamlit to make the application interface
+
+Design interfaces with Streamlit to be able to:
+- Upload csv file (later can be replaced with another dataset easily).
+- Display data table with uploaded file
+- Select input feature (input data columns)
+- Select coefficient for train/test split: For example 0.8 means 80% to train and 20% to test
+- Select K coefficient for K-fold cross validation: Example K = 4
+- "Run" button to run and evaluate the algorithm
+
+Output sẽ là biểu đồ cột hiển thị các kết quả sử dụng độ đo MAE và MSE. 
+
+Note: Train/Test split and K-Fold cross validation are performed independently, choose only one of these two methods.

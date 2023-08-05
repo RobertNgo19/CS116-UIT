@@ -1,0 +1,33 @@
+Step 1: Import libraries
+
+!pip install matplotlib==3.1.3
+
+!pip install osmnet
+
+!pip install folium
+
+!pip install rtree
+
+!pip install pygeos
+
+!pip install geojson
+
+!pip install geopandas
+
+Step 2: clone data from https://github.com/CityScope/CSL_HCMC
+
+Step 3: Load district boundaries and district population from: Data\GIS\Population\population_HCMC\population_shapefile\Population_District_Level.shp
+
+Step 4: Load user click data
+
+Step 5:query the 5 districts with the fastest population density growth rate (Data 2019  và 2017)
+
+Step 6: Use spatial join (from geopandas.tools import sjoin) to query the user's click points in the 5 hottest districts
+
+Step 7: use KMean for 5 hottest in step 6 with K = 20
+
+Step 8: Save 01 cluster of points with the most points in the districts in Step 5.
+
+Step 9: Show the map of the largest clusters by district in the form of HEATMAP
+
+Step 10: Save heatmap format file.png

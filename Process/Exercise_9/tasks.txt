@@ -1,0 +1,13 @@
+You run the colab file with the following guidelines:
+
+Step 1: Train and evaluate on LeNet network architecture test set with MNIST
+
+Step 2: Try changing the configuration of LeNet to variants. Some suggestions:
+
+- Removed all activation
+
+- Removed all Convolution layers
+
+- Removed all Pooling layer
+
+Step 3: evaluate the accuracy on the above variations

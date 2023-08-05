@@ -1,0 +1,7 @@
+Step 1: Install geopandas adn folium
+
+Step 2: git clone https://github.com/CityScope/CSL_HCMC
+Step 3: Use geopandas to read shapefile in /Data/GIS/Population/population_HCMC/population_shapefile/Population_District_Level.shp
+
+Step 4: Draw district boundaries on the map according to the following instructions:
+https://geopandas.readthedocs.io/en/latest/gallery/polygon_plotting_with_folium.html

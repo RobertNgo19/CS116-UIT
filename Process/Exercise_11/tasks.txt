@@ -1,0 +1,5 @@
+With the default parameters of a model, usually we will not achieve the highest accuracy.
+
+To choose the best model, we will find the most efficient hyperparameters. Among the effective methods of finding parameters, Grid Search is one of them.
+
+Let's use the SVM (classification) model on the Social Network Ads dataset to find a good model for the above data using Grid Search.
