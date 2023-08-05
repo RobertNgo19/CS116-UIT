@@ -14,7 +14,7 @@
  ## COURSE INTRODUCTION
 * **Subject Title:** Python for Machine Learning
 * **Subject Code:** CS116
-*  Hello everyone, in this archive I introduce  Python in machine learning. This is one of the best practices for me to start my AI career.
+*  Hello everyone, in this repo I introduce  Python for Machine Learning. This is one of the best practices for me to start my AI career.
 > Note: All knowledge **belonging to UIT** just use for study and research only
 
  ## Progress
