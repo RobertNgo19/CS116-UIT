@@ -12,8 +12,8 @@
  19521994      | Ngo Thanh Phat        |https://github.com/RobertNgo19  |thanhphat352@gmail.com  |
  
  ## COURSE INTRODUCTION
-* **Subject Title:** Python for Machine Learning
-* **Subject Code:** CS116
+* **Title:** Python for Machine Learning
+* **Code:** CS116
 *  Hello everyone, in this repo I introduce  Python for Machine Learning. This is one of the best practices for me to start my AI career.
 > Note: All knowledge **belonging to UIT** just use for study and research only
 
